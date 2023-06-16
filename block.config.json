@@ -1,0 +1,24 @@
+{
+  "name": "16p3",
+  "type": "package",
+  "blockId": "1pGb9GOPd_kYxE9trywsr",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_16p3"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "_ab_thr_pack": {
+      "directory": "_ab_thr_pack"
+    },
+    "testp4": {
+      "directory": "testp4"
+    }
+  }
+}

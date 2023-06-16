@@ -1,0 +1,28 @@
+{
+  "name": "testp4",
+  "type": "package",
+  "blockId": "kah7Gp8Kzd6pJowso_S4r",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testp4"
+  },
+  "parentBlockIDs": [
+    "1pGb9GOPd_kYxE9trywsr"
+  ],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "testp4func": {
+      "directory": "testp4func",
+      "versionId": "m4utLbnRsLNSeEBPwBvK2",
+      "version": "0.0.1"
+    }
+  },
+  "version": "0.0.1",
+  "versionId": "TrUk_v-LUMtLtV-vY5iu-",
+  "variantOf": "TrUk_v-LUMtLtV-vY5iu-"
+}
