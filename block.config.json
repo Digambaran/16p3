@@ -15,10 +15,16 @@
   "repoType": "mono",
   "dependencies": {
     "_ab_thr_pack": {
-      "directory": "_ab_thr_pack"
+      "directory": "_ab_thr_pack",
+      "versionId": "g2-nILMJQkwzL7WfmGPiF",
+      "version": "0.0.1"
     },
     "testp4": {
-      "directory": "testp4"
+      "directory": "testp4",
+      "versionId": "5_Ja-PnN7JQwAINU-Ric_",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "NsWCKMacbdav_07HyT-z7"
 }
